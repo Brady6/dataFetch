@@ -1,5 +1,4 @@
-/*This jsx REACT file obtains an image with 
-metadata from a REST API and displays in a table */
+/*This jsx REACT file obtains an image with metadata from a REST API and displays in a table */
 
 import { useState, useEffect } from 'react'
 
